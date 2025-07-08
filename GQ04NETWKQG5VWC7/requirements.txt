@@ -1,2 +1,0 @@
-# Packages in this file will be installed into the app environment
-streamlit-nightly
